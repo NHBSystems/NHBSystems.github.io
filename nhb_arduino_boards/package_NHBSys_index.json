@@ -14,12 +14,12 @@
         {
           "name": "NHB Boards",
           "architecture": "samd",
-          "version": "1.0.0",
+          "version": "1.1.0",
           "category": "Contributed",
-          "url": "file://C:/Users/jjuli/gDrive/Development/Open Source DAQ & Control/Arduino_Custom_Boards/NHBSystems/hardware/samd/NHB_1.0.0.zip",
-          "archiveFileName": "NHB_1.0.0.zip",
-          "checksum": "SHA-256:d2a19c1d58cfd30267f373b53a324a105ba642d4e5291fcf5e2113ad207fdaeb",
-          "size": "1686089",
+          "url": "https://nhbsystems.github.io/nhb_arduino_boards/NHB_SAMD_1.1.0.zip",
+          "archiveFileName": "NHB_1.1.0.zip",
+          "checksum": "SHA-256:6b08ab3991d64232ea83c4dc973ebd4a2e7c8b5e218ae8fc6c48c92bdaee93f3",
+          "size": "1667637",
           "boards": [
                 {"name": "JLogger 601" }                 
           ],
