@@ -1,0 +1,56 @@
+{
+  "packages":
+  [
+    {
+      "name": "JLogger 601",
+      "maintainer": "NHB Systems",
+      "websiteURL": "http://www.nhbsystems.com",
+      "help":
+      {
+        "online": "http://www.nhbsystems.com"
+      },
+      "platforms":
+      [
+        {
+          "name": "NHB Boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "file://C:/Users/jjuli/gDrive/Development/Open Source DAQ & Control/Arduino_Custom_Boards/NHBSystems/hardware/samd/NHB_1.0.0.zip",
+          "archiveFileName": "NHB_1.0.0.zip",
+          "checksum": "SHA-256:d2a19c1d58cfd30267f373b53a324a105ba642d4e5291fcf5e2113ad207fdaeb",
+          "size": "1686089",
+          "boards": [
+                {"name": "JLogger 601" }                 
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
