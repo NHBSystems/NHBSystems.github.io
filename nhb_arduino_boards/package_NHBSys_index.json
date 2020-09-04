@@ -3,7 +3,7 @@
   [
     {
       "name": "JLogger 601",
-      "maintainer": "NHB Systems",
+      "maintainer": "NHBSystems",
       "websiteURL": "http://www.nhbsystems.com",
       "help":
       {
@@ -12,7 +12,7 @@
       "platforms":
       [
         {
-          "name": "NHB Systems SAMD Boards",
+          "name": "NHBSystems SAMD Boards",
           "architecture": "samd",
           "version": "1.1.0",
           "category": "Contributed",
