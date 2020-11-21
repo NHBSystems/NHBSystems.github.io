@@ -100,8 +100,8 @@
           "category": "Contributed",
           "url": "https://nhbsystems.github.io/nhb_arduino_boards/NHB_SAMD_1.1.0.zip",
           "archiveFileName": "NHB_1.1.0.zip",
-          "checksum": "SHA-256:08DFF9467006C4DFBECE91A136687777372E97BD2D5201A6EA079E246E48EBC6",
-          "size": "1571128",
+          "checksum": "SHA-256:7F7AE5BC7EBD11DC87C0223BB66B48BFB90712B7BBFE2794C2659F118271F201",
+          "size": "1571127",
           "boards": [
                 {"name": "JLogger 601" }                 
           ],
